@@ -48,4 +48,6 @@ class MainActivity : AppCompatActivity() {
         val avisoDestruccion = Toast.makeText(applicationContext, "Destruiste la app :(", Toast.LENGTH_SHORT)
         avisoDestruccion.show()
     }
+
+    // Este es un comentario
 }
